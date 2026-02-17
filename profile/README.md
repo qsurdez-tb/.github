@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bachelor Thesis
 
 <!--
 
@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This organisation contains the report and the code for my bachelor thesis.
+
+## Contents
+
+- *[Report](https://github.com/qsurdez-tb/report)*: the written report
+- *[ICNML](https://github.com/qsurdez-tb/icnml)*: the source code on which the report is based
+- ?*[Documentation](...)*: documents created for the report?
+
+
+
