@@ -17,7 +17,7 @@ This organisation contains the report and the code for my bachelor thesis.
 
 - *[Report](https://github.com/qsurdez-tb/report)*: the written report
 - *[ICNML](https://github.com/qsurdez-tb/icnml)*: the source code on which the report is based
-- ?*[Documentation](...)*: documents created for the report?
+<!-- ?*[Documentation](...)*: documents created for the report? -->
 
 
 
